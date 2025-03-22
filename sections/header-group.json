@@ -28,7 +28,7 @@
         "announcement-bar-0"
       ],
       "settings": {
-        "only_homepage": true,
+        "only_homepage": false,
         "layout": "marquee",
         "mobile_layout": "marquee",
         "autorotate": true,
@@ -46,7 +46,7 @@
     "header": {
       "type": "header",
       "custom_css": [
-        ".icon-search{display:none;}"
+        ".icon-search {display: none;}"
       ],
       "settings": {
         "logo": "shopify://shop_images/APPLE_WATCH_BANDS_6_b2c9faf7-776e-43a2-ad91-7838760fc7a0.png",
