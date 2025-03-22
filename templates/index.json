@@ -164,6 +164,77 @@
         "padding_bottom": 36
       }
     },
+    "img_with_textt_38mewM": {
+      "type": "img-with-textt",
+      "blocks": {
+        "image_HW7Mth": {
+          "type": "Image",
+          "settings": {
+            "review_icon": "shopify://shop_images/rdn-soothing-barrier-support-serum-lifestyle.webp",
+            "review_text": "My skin feels instantly calm and hydrated! Perfect for sensitive skin.",
+            "review_rating": 5
+          }
+        },
+        "image_UN9db7": {
+          "type": "Image",
+          "settings": {
+            "review_icon": "shopify://shop_images/the-ordinary-multi-peptide-serum-for-hair-density-serum-199585.webp",
+            "review_text": "Noticed fuller, healthier hair in just a few weeks! Absolute game-changer.",
+            "review_rating": 5
+          }
+        },
+        "image_ApY7Ym": {
+          "type": "Image",
+          "settings": {
+            "review_icon": "shopify://shop_images/beauty-of-joseon-protector-solar-de-arroz-probioticos-relief-sun-spf50-2-82680.jpg",
+            "review_text": "So hydrating and refreshing! My skin looks brighter and feels super soft.",
+            "review_rating": 5
+          }
+        },
+        "image_FygHPE": {
+          "type": "Image",
+          "settings": {
+            "review_icon": "shopify://shop_images/Ginseng-Essence-Water-04.webp",
+            "review_text": "Glow, hydration, and protection in one—perfect for my busy lifestyle!",
+            "review_rating": 5
+          }
+        },
+        "image_hxnAFj": {
+          "type": "Image",
+          "settings": {
+            "review_icon": "shopify://shop_images/4_6fc1b668-1cb1-485f-924f-e1ebc459a158.webp",
+            "review_text": "Simple, effective, and leaves my skin radiant!",
+            "review_rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "image_HW7Mth",
+        "image_UN9db7",
+        "image_ApY7Ym",
+        "image_FygHPE",
+        "image_hxnAFj"
+      ],
+      "settings": {
+        "animation_time": 30,
+        "loop_amount": 2,
+        "header_before_gradient": "Our customers",
+        "header_gradient": "love",
+        "header": "the product",
+        "header_color": "#0B1128",
+        "header_font_size": 42,
+        "header_mob_font_size": 28,
+        "review_font_size": 16,
+        "review_font_color": "#0B1128",
+        "gradient_color_1": "#57523a",
+        "gradient_color_2": "#57523a",
+        "gradient_color_3": "#ffffff",
+        "blur_color": "#B8B1DC",
+        "background-color": "#ffffff",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "guarantees": {
       "type": "guarantees",
       "blocks": {
@@ -245,6 +316,7 @@
     "rich-text-0",
     "scrolling_promotion_EE6xnH",
     "featured-collection",
+    "img_with_textt_38mewM",
     "guarantees"
   ]
 }
