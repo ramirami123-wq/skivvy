@@ -164,37 +164,6 @@
         "padding_bottom": 36
       }
     },
-    "scrolling_promotion_nQ4prY": {
-      "type": "scrolling-promotion",
-      "blocks": {
-        "announcement_WDNJaX": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "icon_size": "medium",
-            "custom_icon": "",
-            "text": "DELIVERY ALL OVER LEBANON",
-            "text_size": 20,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "announcement_WDNJaX"
-      ],
-      "settings": {
-        "direction": "left",
-        "speed": 1.6,
-        "show_divider": false,
-        "use_custom_colors": true,
-        "colors_icon": "#ffffff",
-        "colors_text": "#ffffff",
-        "colors_background": "#57523a",
-        "gradient_background": "",
-        "padding_top": 24,
-        "padding_bottom": 24
-      }
-    },
     "app_VHjJMt": {
       "type": "app",
       "blocks": {
@@ -276,6 +245,87 @@
         "padding_bottom": 36,
         "padding_horizontal": 5,
         "padding_horizontal_mobile": 1.5
+      }
+    },
+    "scrolling_promotion_nQ4prY": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_WDNJaX": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "DELIVERY ALL OVER LEBANON",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_WDNJaX"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#57523a",
+        "gradient_background": "",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "faq_MrkrGi": {
+      "type": "faq",
+      "blocks": {
+        "question_VdeApB": {
+          "type": "question",
+          "settings": {
+            "title": "What skin types are Skivvy products suitable for?",
+            "text": "<p>Skivvy products are designed for all skin types, including sensitive skin. They are formulated to hydrate, soothe, and protect without irritation.</p>"
+          }
+        },
+        "question_bMLffw": {
+          "type": "question",
+          "settings": {
+            "title": "How often should I use the skincare products?",
+            "text": "<p>For best results, use Skivvy products daily. Apply the serums and sunscreen in the morning and evening for continuous care.</p>"
+          }
+        },
+        "question_UjNT4q": {
+          "type": "question",
+          "settings": {
+            "title": "Are Skivvy products cruelty-free?",
+            "text": "<p>Absolutely! Skivvy is committed to being cruelty-free, and none of our products are tested on animals.</p>"
+          }
+        },
+        "question_gVfUYd": {
+          "type": "question",
+          "settings": {
+            "title": "Can I use these products under makeup?",
+            "text": "<p>Yes! All Skivvy products are lightweight and absorb quickly, making them perfect for layering under makeup.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "question_VdeApB",
+        "question_bMLffw",
+        "question_UjNT4q",
+        "question_gVfUYd"
+      ],
+      "settings": {
+        "narrow": false,
+        "secondary_background": true,
+        "show_divider": false,
+        "heading": "FAQs",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "img_with_textt_38mewM": {
@@ -432,6 +482,7 @@
     "featured-collection",
     "app_VHjJMt",
     "scrolling_promotion_nQ4prY",
+    "faq_MrkrGi",
     "img_with_textt_38mewM",
     "guarantees"
   ]
