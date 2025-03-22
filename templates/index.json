@@ -164,6 +164,120 @@
         "padding_bottom": 36
       }
     },
+    "scrolling_promotion_nQ4prY": {
+      "type": "scrolling-promotion",
+      "blocks": {
+        "announcement_WDNJaX": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "text": "DELIVERY ALL OVER LEBANON",
+            "text_size": 20,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_WDNJaX"
+      ],
+      "settings": {
+        "direction": "left",
+        "speed": 1.6,
+        "show_divider": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#57523a",
+        "gradient_background": "",
+        "padding_top": 24,
+        "padding_bottom": 24
+      }
+    },
+    "app_VHjJMt": {
+      "type": "app",
+      "blocks": {
+        "text_FKLEcW": {
+          "type": "text",
+          "settings": {
+            "heading": "99% OF CUSTOMERS",
+            "heading_custom": false,
+            "heading_font": "assistant_n4",
+            "heading_size": 66,
+            "heading_size_mobile": 50,
+            "heading_height": 100,
+            "heading_align": "center",
+            "heading_style": "fill",
+            "heading_outline_thickness": 1,
+            "number_animation": false,
+            "number_duration": 3,
+            "sub_heading": "Love How Smooth and Refreshed Their Skin Feels!",
+            "sub_heading_custom": false,
+            "sub_heading_font": "assistant_n4",
+            "sub_heading_size": 26,
+            "sub_heading_size_mobile": 20,
+            "sub_heading_height": 100,
+            "sub_heading_align": "center",
+            "sub_heading_mt": 16,
+            "content": "",
+            "content_custom": false,
+            "content_font": "assistant_n4",
+            "content_size": 18,
+            "content_size_mobile": 16,
+            "content_height": 100,
+            "content_align": "center",
+            "content_mt": 16,
+            "link": "",
+            "link_url": "",
+            "link_custom": false,
+            "link_font": "assistant_n4",
+            "link_size": 18,
+            "link_size_mobile": 16,
+            "link_height": 100,
+            "link_align": "center",
+            "link_style": "button",
+            "link_thickness": 1,
+            "link_padding_horizontal": 16,
+            "link_padding_vertical": 12,
+            "link_radius": 28,
+            "link_mt": 16,
+            "heading_color": "#000000",
+            "heading_gradient_color": "linear-gradient(180deg, rgba(87, 82, 58, 1), rgba(26, 26, 26, 0) 100%)",
+            "sub_heading_color": "#000000",
+            "content_color": "#000000",
+            "link_color": "#000000",
+            "link_hover_color": "#CFCDCD",
+            "link_bg_color": "",
+            "link_bg_hover_color": "",
+            "link_border_color": "#000000",
+            "link_border_hover_color": "#CFCDCD"
+          }
+        }
+      },
+      "block_order": [
+        "text_FKLEcW"
+      ],
+      "settings": {
+        "stack_mobile": false,
+        "divider": "circle",
+        "items_gap": 50,
+        "items_gap_mobile": 50,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "divider_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 5,
+        "padding_horizontal_mobile": 1.5
+      }
+    },
     "img_with_textt_38mewM": {
       "type": "img-with-textt",
       "blocks": {
@@ -316,6 +430,8 @@
     "rich-text-0",
     "scrolling_promotion_EE6xnH",
     "featured-collection",
+    "app_VHjJMt",
+    "scrolling_promotion_nQ4prY",
     "img_with_textt_38mewM",
     "guarantees"
   ]
