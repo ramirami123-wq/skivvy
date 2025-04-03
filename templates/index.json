@@ -127,11 +127,11 @@
         "heading": "",
         "heading_size": "h1",
         "heading_tag": "h2",
-        "columns_mobile": "1",
-        "swipe_on_mobile": true,
-        "use_custom_colors": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "use_custom_colors": true,
         "colors_icon": "#ffffff",
-        "colors_text": "#1a1b18",
+        "colors_text": "#57523a",
         "colors_background": "#ffffff",
         "gradient_background": "",
         "padding_top": 36,
@@ -152,10 +152,10 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>With Skivvy, experience skincare that fits seamlessly into your lifestyle—lightweight, effective, and always within reach.</p>",
+            "text": "<p>We bring you skincare that effortlessly fits into your lifestyle—lightweight, effective, and always within reach.</p>",
             "text_size": "typeset2",
             "secondary_color": false,
-            "highlight_phrases": "Skivvy\nlightweight",
+            "highlight_phrases": "Skivvy\nghtwei",
             "highlight_style": "underline"
           }
         }
