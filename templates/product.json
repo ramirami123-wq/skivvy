@@ -71,20 +71,20 @@
           "disabled": true,
           "settings": {}
         },
-        "collapsible_description_yMPDXn": {
-          "type": "collapsible_description",
-          "settings": {
-            "icon": "clipboard",
-            "heading": "Description",
-            "keep_open": false
-          }
-        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
             "show_quantity_selector": true,
             "show_dynamic_checkout": true,
             "show_gift_card_recipient": false
+          }
+        },
+        "collapsible_description_yMPDXn": {
+          "type": "collapsible_description",
+          "settings": {
+            "icon": "clipboard",
+            "heading": "Description",
+            "keep_open": false
           }
         },
         "custom_liquid_kaRtLp": {
@@ -115,8 +115,8 @@
         "countdown",
         "variant_picker",
         "description",
-        "collapsible_description_yMPDXn",
         "buy_buttons",
+        "collapsible_description_yMPDXn",
         "custom_liquid_kaRtLp",
         "related_buttons",
         "sticky_cart"
