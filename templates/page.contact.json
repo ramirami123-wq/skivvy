@@ -20,6 +20,28 @@
     },
     "form": {
       "type": "contact-form",
+      "blocks": {
+        "contact_gw7Cpw": {
+          "type": "contact",
+          "settings": {
+            "heading": "Contact Us",
+            "text": "+961 81 542 647",
+            "link": "tel:+96181542647"
+          }
+        },
+        "contact_NwGdhF": {
+          "type": "contact",
+          "settings": {
+            "heading": "Customer service",
+            "text": "shop@yourstore.com",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "contact_gw7Cpw",
+        "contact_NwGdhF"
+      ],
       "settings": {
         "return_url": "",
         "show_phone": true,
