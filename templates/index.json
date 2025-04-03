@@ -78,10 +78,10 @@
         "guarantee-1": {
           "type": "guarantee",
           "settings": {
-            "icon": "globe",
+            "icon": "paw_print",
             "icon_size": "medium",
             "custom_icon": "",
-            "title": "& Cruelty-Free",
+            "title": "Cruelty-Free",
             "title_size": "h4",
             "text": ""
           }
