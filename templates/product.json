@@ -74,7 +74,7 @@
         "collapsible_description_yMPDXn": {
           "type": "collapsible_description",
           "settings": {
-            "icon": "none",
+            "icon": "clipboard",
             "heading": "Description",
             "keep_open": false
           }
