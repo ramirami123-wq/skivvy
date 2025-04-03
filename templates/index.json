@@ -152,10 +152,10 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>We bring you skincare that effortlessly fits into your lifestyle—lightweight, effective, and always within reach.</p>",
+            "text": "<p>We bring you skincare that effortlessly fits into your lifestyle—lightweight, effective, and always within reach</p>",
             "text_size": "typeset2",
             "secondary_color": false,
-            "highlight_phrases": "Skivvy\nghtwei",
+            "highlight_phrases": "ifestyl\nghtwei\nreach",
             "highlight_style": "underline"
           }
         }
