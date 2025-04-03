@@ -66,6 +66,7 @@
     "cart_recommendations_show_vendor": true,
     "predictive_search_show_vendor": true,
     "social_instagram_link": "https://instagram.com/getskivvy",
+    "favicon": "shopify://shop_images/WhatsApp_Image_2025-03-03_at_3.20.06_PM-removebg-preview.png",
     "gift_card_logo_height": 70,
     "sections": {
       "main-password-header": {
