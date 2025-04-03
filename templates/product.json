@@ -68,7 +68,16 @@
         },
         "description": {
           "type": "description",
+          "disabled": true,
           "settings": {}
+        },
+        "collapsible_description_yMPDXn": {
+          "type": "collapsible_description",
+          "settings": {
+            "icon": "none",
+            "heading": "Description",
+            "keep_open": false
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -106,6 +115,7 @@
         "countdown",
         "variant_picker",
         "description",
+        "collapsible_description_yMPDXn",
         "buy_buttons",
         "custom_liquid_kaRtLp",
         "related_buttons",
