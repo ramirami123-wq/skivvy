@@ -64,6 +64,11 @@
     "cart_recommendations_enabled": true,
     "cart_recommendations_heading": "You may also like",
     "cart_recommendations_show_vendor": true,
+    "cart_recommendations_products": [
+      "revive-eye-serum-ginseng-retinal",
+      "beauty-of-joseon",
+      "ginseng-essence-water-beauty-of-joseon"
+    ],
     "predictive_search_show_vendor": true,
     "social_instagram_link": "https://instagram.com/getskivvy",
     "favicon": "shopify://shop_images/WhatsApp_Image_2025-03-03_at_3.20.06_PM-removebg-preview.png",
