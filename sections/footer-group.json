@@ -20,10 +20,18 @@
             "heading": "Shop",
             "menu": "footer"
           }
+        },
+        "text_HXVGzW": {
+          "type": "text",
+          "settings": {
+            "heading": "our mission",
+            "subtext": "<p>Every product we make is designed to elevate your daily experience with quality, comfort, and effortless style.</p>"
+          }
         }
       },
       "block_order": [
-        "footer-0"
+        "footer-0",
+        "text_HXVGzW"
       ],
       "settings": {
         "show_divider": true,
