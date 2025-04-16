@@ -24,7 +24,7 @@
         "popup-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Sign up and get 10% off your first order</p>",
+            "text": "<p>Sign up and get 10% off your first order using the code: SUBSCRIBERS</p>",
             "text_size": "typeset3",
             "secondary_color": false
           }
@@ -63,7 +63,6 @@
         "popup-3",
         "popup-4"
       ],
-      "disabled": true,
       "settings": {
         "mode": "enabled",
         "only_homepage": true,
