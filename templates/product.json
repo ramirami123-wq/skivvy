@@ -129,7 +129,7 @@
         "media_position": "left",
         "media_size": "medium",
         "gallery_layout": "thumbnail_slider",
-        "image_ratio": "adapt",
+        "image_ratio": "square",
         "show_featured_media": false,
         "show_thumbnails": true,
         "hide_variants": true,
