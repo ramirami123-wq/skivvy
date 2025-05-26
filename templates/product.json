@@ -127,7 +127,7 @@
       "settings": {
         "enable_sticky_info": true,
         "media_position": "left",
-        "media_size": "medium",
+        "media_size": "small",
         "gallery_layout": "thumbnail_slider",
         "image_ratio": "square",
         "show_featured_media": false,
@@ -135,7 +135,7 @@
         "hide_variants": true,
         "enable_image_zoom": true,
         "enable_video_looping": false,
-        "mobile_image_ratio": "adapt_first",
+        "mobile_image_ratio": "square",
         "show_mobile_thumbnails": true,
         "padding_top": 0,
         "padding_bottom": 72
