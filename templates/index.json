@@ -15,12 +15,13 @@
         "slide-2": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/pexels-jill-burrow-6387848.jpg",
+            "image": "shopify://shop_images/Untitled-2_6b5360d6-785b-44f9-b839-d3dec0fec778.jpg",
+            "image_mobile": "shopify://shop_images/8080_6cbeb71e-f32b-4ae8-a77e-01e207c7cd0d.jpg",
             "image_position": "center center",
             "text_box_position": "bottom-left",
             "subheading": "",
             "subheading_size": "h5",
-            "heading": "Glow Anywhere, Shine Everywhere",
+            "heading": "Your daily essentials for your skin.",
             "heading_size": "h0",
             "heading_tag": "h2",
             "text": "",
