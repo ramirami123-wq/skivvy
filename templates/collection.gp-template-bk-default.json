@@ -1,0 +1,105 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "order": [
+    "banner",
+    "subs",
+    "product-grid",
+    "recently-viewed"
+  ],
+  "sections": {
+    "banner": {
+      "settings": {
+        "apply_overlay": true,
+        "heading_size": "h0",
+        "image_position": "center center",
+        "image_ratio": "550px",
+        "mobile_image_ratio": "250px",
+        "mobile_text_alignment": "left",
+        "padding_bottom": 36,
+        "padding_top": 0,
+        "show_description": true,
+        "show_image": true,
+        "show_text_below": false,
+        "text_alignment": "left"
+      },
+      "type": "main-collection-banner"
+    },
+    "product-grid": {
+      "settings": {
+        "columns_mobile": "2",
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "enable_filtering": true,
+        "enable_filtering_color_swatches": false,
+        "enable_image_fill": true,
+        "enable_quick_view": true,
+        "enable_sorting": true,
+        "enable_sticky_facet": true,
+        "enable_viewing": true,
+        "filter_type": "vertical",
+        "filtering_color_swatches_add_label": false,
+        "filtering_max_items": 6,
+        "image_position": "center center",
+        "image_ratio": "portrait",
+        "padding_bottom": 72,
+        "padding_top": 0,
+        "pagination": "paginated",
+        "products_per_row": 3,
+        "rows_per_page": 3,
+        "show_quick_buy": true,
+        "show_rating": true,
+        "show_secondary_image": true,
+        "show_vendor": false
+      },
+      "type": "main-collection-product-grid"
+    },
+    "recently-viewed": {
+      "settings": {
+        "columns_mobile": "1",
+        "enable_color_swatches": true,
+        "enable_countdown": true,
+        "enable_image_fill": true,
+        "enable_quick_view": true,
+        "heading": "Recently viewed",
+        "heading_alignment": "center",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "image_position": "center center",
+        "image_ratio": "portrait",
+        "padding_bottom": 36,
+        "padding_top": 60,
+        "show_divider": true,
+        "show_quick_buy": true,
+        "show_rating": true,
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "swipe_on_mobile": true
+      },
+      "type": "recently-viewed-products"
+    },
+    "subs": {
+      "disabled": true,
+      "settings": {
+        "apply_overlay": true,
+        "columns_mobile": "1",
+        "grid_image": "product",
+        "horizontal_on_mobile": true,
+        "image_position": "center center",
+        "image_ratio": "adapt",
+        "menu": "",
+        "padding_bottom": 0,
+        "padding_top": 36,
+        "per_row": 5
+      },
+      "type": "main-collection-subs"
+    }
+  }
+}
